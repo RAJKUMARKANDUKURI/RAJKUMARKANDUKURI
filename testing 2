@@ -1,0 +1,37 @@
+package rajukumar1;
+
+
+public class Bookpages 
+{
+public static void book1() 
+{
+	System.out.println("page 1 L");
+}
+public static void book2() 
+{
+	System.out.println("page 2 o");
+}
+public static void book3() 
+{
+System.out.println("page3 v");	
+}
+
+{
+System.out.println("page 4 e");
+}
+
+public static void main(String[] args)
+{
+book1();
+book2();
+book3();
+
+
+
+}
+
+	{
+		
+	}
+}
+
