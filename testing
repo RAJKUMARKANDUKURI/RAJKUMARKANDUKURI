@@ -1,0 +1,47 @@
+package rajukumar1;
+
+public class Chandu 
+{
+public void maths1() 
+{
+System.out.println(12+5);	
+}
+public void sum(int a, int b) {
+	System.out.println(a+b);
+}
+public void maths2() 
+{
+System.out.println(20-10);	
+}
+public void maths3() 
+{
+System.out.println(25+25+25+25);	
+}
+public void maths4() 
+{
+System.out.println(2-1.7+2+3-1);	
+}
+public void max() 
+{
+System.out.println(9-12-10-1+20);	
+}
+public void url() 
+{
+System.out.println("https://www.facebook.com/login.php/");	
+}
+public void blank() 
+{
+System.out.println("completed");
+}
+public static void main(String[] args){
+new  Chandu().maths1();
+new  Chandu().maths2();
+new  Chandu().maths3();
+new  Chandu().maths4();
+new  Chandu().max();
+new  Chandu().url();
+new  Chandu().blank();
+new Chandu().sum(2,3);
+new Chandu().sum(60,68);
+}
+}
